@@ -1,0 +1,103 @@
+# Compile of not.vhd failed with 1 errors.
+# Compile of not.vhd was successful.
+vsim -gui work.not_gate
+# vsim -gui work.not_gate 
+# Start time: 21:05:59 on Jul 28,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.not_gate(behavioral)
+add wave -position insertpoint sim:/not_gate/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: SUBHA  Hostname: DESKTOP-N3DF4UG  ProcessID: 20784
+#           Attempting to use alternate WLF file "./wlft5zd08z".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft5zd08z
+force -freeze sim:/not_gate/A 1 0, 0 {100 ps} -r 200
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/SUBHA/OneDrive/Desktop/coa lab/wave.do}
+# Compile of nand.vhd was successful.
+vsim -gui work.nand_gate
+# End time: 21:10:25 on Jul 28,2026, Elapsed time: 0:04:26
+# Errors: 0, Warnings: 8
+# vsim -gui work.nand_gate 
+# Start time: 21:10:25 on Jul 28,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.nand_gate(behavioral)
+add wave -position insertpoint sim:/nand_gate/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: SUBHA  Hostname: DESKTOP-N3DF4UG  ProcessID: 20784
+#           Attempting to use alternate WLF file "./wlftemwk4k".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftemwk4k
+force -freeze sim:/nand_gate/A 1 0, 0 {100 ps} -r 200
+force -freeze sim:/nand_gate/B 1 0, 0 {50 ps} -r 100
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/SUBHA/OneDrive/Desktop/coa lab/wave.do}
+# Compile of nor.vhd was successful.
+vsim -gui work.nor_gate
+# End time: 21:15:34 on Jul 28,2026, Elapsed time: 0:05:09
+# Errors: 0, Warnings: 5
+# vsim -gui work.nor_gate 
+# Start time: 21:15:34 on Jul 28,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.nor_gate(behavioral)
+add wave -position insertpoint sim:/nor_gate/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: SUBHA  Hostname: DESKTOP-N3DF4UG  ProcessID: 20784
+#           Attempting to use alternate WLF file "./wlft8t7trg".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlft8t7trg
+add wave -position insertpoint sim:/nor_gate/*
+force -freeze sim:/nor_gate/A 1 0, 0 {100 ps} -r 200
+force -freeze sim:/nor_gate/B 1 0, 0 {50 ps} -r 100
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/SUBHA/OneDrive/Desktop/coa lab/wave.do}
+# Compile of xor.vhd was successful.
+vsim -gui work.xor_gate
+# End time: 21:23:26 on Jul 28,2026, Elapsed time: 0:07:52
+# Errors: 0, Warnings: 5
+# vsim -gui work.xor_gate 
+# Start time: 21:23:26 on Jul 28,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xor_gate(behavioral)
+add wave -position insertpoint sim:/xor_gate/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: SUBHA  Hostname: DESKTOP-N3DF4UG  ProcessID: 20784
+#           Attempting to use alternate WLF file "./wlftdg4e2s".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftdg4e2s
+force -freeze sim:/xor_gate/A 1 0, 0 {100 ps} -r 200
+force -freeze sim:/xor_gate/B 1 0, 0 {50 ps} -r 100
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/SUBHA/OneDrive/Desktop/coa lab/wave.do}
+# Load canceled
+# Compile of xnor.vhd was successful.
+vsim -gui work.xnor_gate
+# End time: 21:28:14 on Jul 28,2026, Elapsed time: 0:04:48
+# Errors: 0, Warnings: 5
+# vsim -gui work.xnor_gate 
+# Start time: 21:28:14 on Jul 28,2026
+# Loading std.standard
+# Loading std.textio(body)
+# Loading ieee.std_logic_1164(body)
+# Loading work.xnor_gate(behavioral)
+add wave -position insertpoint sim:/xnor_gate/*
+# ** Warning: (vsim-WLF-5000) WLF file currently in use: vsim.wlf
+#           File in use by: SUBHA  Hostname: DESKTOP-N3DF4UG  ProcessID: 20784
+#           Attempting to use alternate WLF file "./wlftgjsdh9".
+# ** Warning: (vsim-WLF-5001) Could not open WLF file: vsim.wlf
+#           Using alternate file: ./wlftgjsdh9
+force -freeze sim:/xnor_gate/A 1 0, 0 {100 ps} -r 200
+force -freeze sim:/xnor_gate/B 1 0, 0 {50 ps} -r 100
+run
+write format wave -window .main_pane.wave.interior.cs.body.pw.wf {C:/Users/SUBHA/OneDrive/Desktop/coa lab/wave.do}
+# Compile of or.vhd was successful.
+# End time: 21:30:17 on Jul 28,2026, Elapsed time: 0:02:03
+# Errors: 0, Warnings: 5

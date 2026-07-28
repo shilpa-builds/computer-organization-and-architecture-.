@@ -1,0 +1,320 @@
+m255
+K4
+z2
+!s11e vcom 2020.1 2020.02, Feb 28 2020
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Public/Desktop
+Eand_gate
+Z0 w1785251495
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 cVAk:aDinOX8^VGI1ekP<3
+!i122 10
+Z3 dC:/Users/SUBHA/OneDrive/Desktop/coa lab
+Z4 8C:\Users\SUBHA\OneDrive\Desktop\coa lab\and.vhd
+Z5 FC:\Users\SUBHA\OneDrive\Desktop\coa lab\and.vhd
+l0
+L3 1
+VdIZQ47X@n`ZnRJ<kP5DNE1
+!s100 ?@iZToRP:KkjFSBo_VIXd0
+Z6 OV;C;2020.1;71
+32
+Z7 !s110 1785251502
+!i10b 1
+Z8 !s108 1785251502.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\SUBHA\OneDrive\Desktop\coa lab\and.vhd|
+Z10 !s107 C:\Users\SUBHA\OneDrive\Desktop\coa lab\and.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Abehavioral
+R1
+R2
+DEx4 work 8 and_gate 0 22 dIZQ47X@n`ZnRJ<kP5DNE1
+!i122 10
+l10
+L9 4
+VFIBV=]gF09ek=NIZ8]g702
+!s100 O>BI]aG41M3Z=D_U@`2=K0
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Enand_gate
+Z13 w1785253180
+R1
+R2
+!i122 13
+R3
+Z14 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/nand.vhd
+Z15 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/nand.vhd
+l0
+L4 1
+V<D4adCJKU:HfjfPY3DIe92
+!s100 l4ES9=749`Fa`VK:2QV_X0
+R6
+32
+Z16 !s110 1785253186
+!i10b 1
+Z17 !s108 1785253186.000000
+Z18 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/nand.vhd|
+Z19 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/nand.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 nand_gate 0 22 <D4adCJKU:HfjfPY3DIe92
+!i122 13
+l10
+L9 4
+V@OQ_jjW@<LRDiFHKmW7@L3
+!s100 X@ES@SLG?8=a?mn1B8[Wb3
+R6
+32
+R16
+!i10b 1
+R17
+R18
+R19
+!i113 1
+R11
+R12
+Enor_gate
+Z20 w1785253468
+R1
+R2
+!i122 14
+R3
+Z21 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/nor.vhd
+Z22 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/nor.vhd
+l0
+L4 1
+VT@cN2j1][K6j;i<UZM@>z2
+!s100 aZJj85hh[ih]PS[ldG1[L0
+R6
+32
+Z23 !s110 1785253492
+!i10b 1
+Z24 !s108 1785253492.000000
+Z25 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/nor.vhd|
+Z26 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/nor.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 nor_gate 0 22 T@cN2j1][K6j;i<UZM@>z2
+!i122 14
+l10
+L9 4
+VSzRDeRF5j;O=>`BlfKC:M0
+!s100 eUl>N`@e0lLY90[SMEf2n3
+R6
+32
+R23
+!i10b 1
+R24
+R25
+R26
+!i113 1
+R11
+R12
+Enot_gate
+Z27 w1785252928
+R1
+R2
+!i122 12
+R3
+Z28 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/not.vhd
+Z29 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/not.vhd
+l0
+L4 1
+VF@4gH`9;C?KGCjCXe>?N[3
+!s100 dzHB?a`Ti[:R4d=3Tz4d>1
+R6
+32
+Z30 !s110 1785252933
+!i10b 1
+Z31 !s108 1785252933.000000
+Z32 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/not.vhd|
+Z33 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/not.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 not_gate 0 22 F@4gH`9;C?KGCjCXe>?N[3
+!i122 12
+l10
+L9 4
+V`RjIMPU<NoTb<fERg1agT2
+!s100 1;SBjM_oAITaSh;EF=^`a0
+R6
+32
+R30
+!i10b 1
+R31
+R32
+R33
+!i113 1
+R11
+R12
+Eor_gate
+Z34 w1785252180
+R1
+R2
+!i122 17
+R3
+Z35 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/or.vhd
+Z36 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/or.vhd
+l0
+L4 1
+Vnec5<SZe:kgN>Lj;6lBYN0
+!s100 1=kOR=5zzkXPL=Ml^X?V63
+R6
+32
+Z37 !s110 1785254365
+!i10b 1
+Z38 !s108 1785254365.000000
+Z39 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/or.vhd|
+Z40 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/or.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+Z41 DEx4 work 7 or_gate 0 22 nec5<SZe:kgN>Lj;6lBYN0
+!i122 17
+l10
+L9 4
+Z42 Vc;KPhG1I:W26<a_AdP<272
+Z43 !s100 mV@Ul2Ae0o05@EdMkY25G1
+R6
+32
+R37
+!i10b 1
+R38
+R39
+R40
+!i113 1
+R11
+R12
+Exnor_gate
+Z44 w1785254249
+R1
+R2
+!i122 16
+R3
+Z45 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/xnor.vhd
+Z46 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/xnor.vhd
+l0
+L4 1
+VJcmf@8R^[zlolTIfLa?nO0
+!s100 9a_SiGZgFBRR54`HZ2KV]2
+R6
+32
+Z47 !s110 1785254259
+!i10b 1
+Z48 !s108 1785254259.000000
+Z49 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/xnor.vhd|
+Z50 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/xnor.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 9 xnor_gate 0 22 Jcmf@8R^[zlolTIfLa?nO0
+!i122 16
+l10
+L9 4
+VI@V^O8J8b7RGoIhTiPIT`3
+!s100 Oi>g85Y4:B1j^ULDocHZf0
+R6
+32
+R47
+!i10b 1
+R48
+R49
+R50
+!i113 1
+R11
+R12
+Exor_gate
+Z51 w1785253954
+R1
+R2
+!i122 15
+R3
+Z52 8C:/Users/SUBHA/OneDrive/Desktop/coa lab/xor.vhd
+Z53 FC:/Users/SUBHA/OneDrive/Desktop/coa lab/xor.vhd
+l0
+L3 1
+VI8:P>]1;@50PJX@KRhEfU2
+!s100 Ad@l>`ELHAE<9OI0_DGDN0
+R6
+32
+Z54 !s110 1785253972
+!i10b 1
+Z55 !s108 1785253972.000000
+Z56 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:/Users/SUBHA/OneDrive/Desktop/coa lab/xor.vhd|
+Z57 !s107 C:/Users/SUBHA/OneDrive/Desktop/coa lab/xor.vhd|
+!i113 1
+R11
+R12
+Abehavioral
+R1
+R2
+DEx4 work 8 xor_gate 0 22 I8:P>]1;@50PJX@KRhEfU2
+!i122 15
+l9
+L8 4
+VGNU]Uaz9kfDh3God;:h363
+!s100 V6;f?X<[DV<9[Q_G3i2B^1
+R6
+32
+R54
+!i10b 1
+R55
+R56
+R57
+!i113 1
+R11
+R12
+Axorlogic
+R1
+R2
+DEx4 work 8 xor_gate 0 22 4EzP1ZSL30igLMI<mMe;I3
+!i122 9
+l13
+L12 4
+V5>nW9;6;U52ISG`;flZ1f0
+!s100 ENjdKdFLYnVBBMVSgDS>[1
+R6
+32
+!s110 1785251130
+!i10b 1
+!s108 1785251129.000000
+!s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|C:\Users\SUBHA\OneDrive\Desktop\coa lab\or gate.vhd|
+!s107 C:\Users\SUBHA\OneDrive\Desktop\coa lab\or gate.vhd|
+!i113 1
+R11
+R12
+FC:\Users\SUBHA\OneDrive\Desktop\coa lab\or gate.vhd
+w1785229899
+8C:\Users\SUBHA\OneDrive\Desktop\coa lab\or gate.vhd
